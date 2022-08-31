@@ -2,5 +2,5 @@ version: 0.0
 os: linux
 files:
   - source: /index.html
-    destination: /home/centos/
+    destination: /var/www/html/
 
