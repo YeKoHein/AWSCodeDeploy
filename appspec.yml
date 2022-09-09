@@ -4,3 +4,7 @@ files:
   - source: /
     destination: /var/www/html/test/
     state: directory
+    owner: wm4
+    group: wm4
+    mode: 0775
+    recurse: yes
