@@ -7,4 +7,3 @@ files:
     owner: wm4
     group: wm4
     mode: 0775
-    recurse: yes
